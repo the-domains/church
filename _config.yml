@@ -1,3 +1,4 @@
+layout_spectrum: 0.29326677322387695
 typography_spectrum: 0.5166308784391731
 color:
   brandStrength: 0.6819758354686201
@@ -5,12 +6,9 @@ color:
   saturation: 0.6277926447801292
   rhythmicContrast: 0.34382886067032814
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
-layout_spectrum: 0.29326677322387695
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Church
-title: Crown Church
-description: 'First time here? '
